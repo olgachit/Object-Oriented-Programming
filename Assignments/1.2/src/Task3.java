@@ -18,7 +18,6 @@ public class Task3 {
         int naula = (int)(luoti / 32);
         luoti %= 32;
 
-
         System.out.println("Weight (g): " + weight);
         System.out.printf("%s grams is %d leiviskä, %d naula and %.2f luoti.%n", weight, leiviska, naula, luoti);
     }
