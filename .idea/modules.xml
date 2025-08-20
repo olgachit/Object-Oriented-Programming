@@ -5,9 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/Assignments/1.1/1.1.iml" filepath="$PROJECT_DIR$/Assignments/1.1/1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/1.2/1.2.iml" filepath="$PROJECT_DIR$/Assignments/1.2/1.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/1.3/1.3.iml" filepath="$PROJECT_DIR$/Assignments/1.3/1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Examples/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/Classes/Classes.iml" filepath="$PROJECT_DIR$/Examples/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/Collections/Collections.iml" filepath="$PROJECT_DIR$/Examples/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Examples.iml" filepath="$PROJECT_DIR$/Examples/Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/Statements/Statements.iml" filepath="$PROJECT_DIR$/Examples/Statements/Statements.iml" />
     </modules>
   </component>
 </project>
