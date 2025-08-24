@@ -16,3 +16,4 @@ public class CarDriver {
         }
     }
 }
+//We edit the carDriver first to set the idea of how the program should work and make it easier to leave out unnecessary code.
