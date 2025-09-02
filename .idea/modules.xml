@@ -31,7 +31,9 @@
       <module fileurl="file://$PROJECT_DIR$/Examples/Associations/Associations.iml" filepath="$PROJECT_DIR$/Examples/Associations/Associations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Classes/Classes.iml" filepath="$PROJECT_DIR$/Examples/Classes/Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Collections/Collections.iml" filepath="$PROJECT_DIR$/Examples/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/DataStreams/DataStreams.iml" filepath="$PROJECT_DIR$/Examples/DataStreams/DataStreams.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Examples.iml" filepath="$PROJECT_DIR$/Examples/Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Examples/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Examples/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Examples/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming.iml" />
