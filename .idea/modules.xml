@@ -26,6 +26,10 @@
       <module fileurl="file://$PROJECT_DIR$/Assignments/3.2/3.2Task2/3.2Task2.iml" filepath="$PROJECT_DIR$/Assignments/3.2/3.2Task2/3.2Task2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/3.2/3.2Task3/3.2Task3.iml" filepath="$PROJECT_DIR$/Assignments/3.2/3.2Task3/3.2Task3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/3.2/3.2Task4/3.2Task4.iml" filepath="$PROJECT_DIR$/Assignments/3.2/3.2Task4/3.2Task4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/3.3/3.3.iml" filepath="$PROJECT_DIR$/Assignments/3.3/3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/3.3/3.3Task1/3.3Task1.iml" filepath="$PROJECT_DIR$/Assignments/3.3/3.3Task1/3.3Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/3.3/3.3Task2/3.3Task2.iml" filepath="$PROJECT_DIR$/Assignments/3.3/3.3Task2/3.3Task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/3.3/3.3Task3/3.3Task3.iml" filepath="$PROJECT_DIR$/Assignments/3.3/3.3Task3/3.3Task3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Examples/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Associations/Associations.iml" filepath="$PROJECT_DIR$/Examples/Associations/Associations.iml" />
@@ -36,12 +40,14 @@
       <module fileurl="file://$PROJECT_DIR$/Examples/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Examples/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Examples/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Examples/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/3.3/3.3Task3/Library/Library.iml" filepath="$PROJECT_DIR$/Assignments/3.3/3.3Task3/Library/Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Statements/Statements.iml" filepath="$PROJECT_DIR$/Examples/Statements/Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/2.1/Task1/Task1.iml" filepath="$PROJECT_DIR$/Assignments/2.1/Task1/Task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/2.1/Task2/Task2.iml" filepath="$PROJECT_DIR$/Assignments/2.1/Task2/Task2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/2.1/Task3/Task3.iml" filepath="$PROJECT_DIR$/Assignments/2.1/Task3/Task3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/2.1/Task4/Task4.iml" filepath="$PROJECT_DIR$/Assignments/2.1/Task4/Task4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/3.3/3.3Task2/library/library.iml" filepath="$PROJECT_DIR$/Assignments/3.3/3.3Task2/library/library.iml" />
     </modules>
   </component>
 </project>
