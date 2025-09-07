@@ -32,4 +32,4 @@ public class Calculator {
 }
 ```
 
-
+This code defines a simple Calculator class in Java that can add integers and reset its value. The class has a private variable Value to store the current number. The add method increases the value by a given integer, and the reset method sets it back to zero. The getValue method returns the current value as a double. The main method adds numbers, prints the result, resets, and prints result again
