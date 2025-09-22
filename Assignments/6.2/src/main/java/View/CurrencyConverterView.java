@@ -63,7 +63,6 @@ public class CurrencyConverterView {
         grid.add(resultField, 1, 5);
 
         Scene scene = new Scene(grid, 400, 350);
-        scene.getStylesheets().add(getClass().getResource("/style.css").toExternalForm());
         stage.setScene(scene);
         stage.show();
     }
